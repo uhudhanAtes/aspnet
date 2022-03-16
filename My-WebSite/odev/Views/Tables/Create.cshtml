@@ -1,0 +1,66 @@
+﻿@model odev.Models.Table
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="container" style="background-color: rgb(174, 154, 147); font-weight: bold; font-size: small">
+    <p>
+        &nbsp;Sadece üye olan kullanıcılar konu oluşturabilme yetkisine sahiptir. <br />
+        Tecnosozluk üyelerin sadece teknoloji alanında soru ve görüşlerini paylaşabilecekleri bir web sitesidir.
+        Üyelerimizden bu kurala özen göstermesi rica olunur.
+    </p>
+</div>
+<div class="container p-4" style="background-color: rgb(174, 154, 147); font-weight: bold; font-size: small">
+
+    <div class="row my-3 kutu">
+        <div class="col-xl-12 bg-dark kutuBaslik"> Bir Konu Olustur</div>
+
+        <div class="col-xl-2 kutuKonuName">
+            <img src="~/ödev2/kullanıcı-pp.jpg" class="rounded-circle" alt="anonim-pp" height="160" width="160">
+            <p> @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })</p>
+        </div>
+
+        <div class="col-xl-10 kutuKonu">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Konu, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10 mb-3 mt-3">
+                            @Html.TextAreaFor(model => model.Konu, new { @class = "form-control", Required = "", rows = 5,})
+                            @Html.ValidationMessageFor(model => model.Konu, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Tarih, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Tarih, new { htmlAttributes = new { @class = "form-control", Required = "", Placeholder = "Örnek : 1 Ocak 2020"} })
+                            @Html.ValidationMessageFor(model => model.Tarih, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-3 col-md-10">
+                            <input type="submit" value="Gönder" class="btn btn-success" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

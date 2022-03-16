@@ -1,0 +1,18 @@
+﻿@model IEnumerable<odev.Models.Table>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container mt-2 " style="background-color: rgb(174, 154, 147); font-weight:bold; font-size:small">
+    <div class="row my-3 kutu">
+        <div class="col-12 bg-dark kutuBaslik"> En Son Eklenen Konular</div>
+        @foreach (var item in Model)
+        {
+            <div class="col-xl-2 kutuIcıSol"> @Html.DisplayFor(modelItem => item.Tarih)</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">@Html.DisplayFor(modelItem => item.Konu)</a></div>
+            <div class="col-xl-1 kutuIcıSagAdmin">@Html.ActionLink("DÜZENLE", "Edit", new { id = item.Id})</div>
+            <div class="col-xl-1 kutuIcıSagAdmin">@Html.ActionLink("SİL", "Delete", new { id = item.Id })</div>
+        }
+    </div>
+</div>

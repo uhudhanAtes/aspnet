@@ -1,0 +1,390 @@
+C:\Users\uhud\Desktop\odev\odev\bin\odev.dll.config
+C:\Users\uhud\Desktop\odev\odev\bin\odev.dll
+C:\Users\uhud\Desktop\odev\odev\bin\odev.pdb
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csc.exe
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csc.exe.config
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csc.rsp
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csi.exe
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csi.exe.config
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\csi.rsp
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.AppContext.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Console.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.IO.Compression.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Net.Http.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.ValueTuple.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\vbc.exe
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\vbc.exe.config
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\vbc.rsp
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\uhud\Desktop\odev\odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uhud\Desktop\odev\odev\bin\Antlr3.Runtime.dll
+C:\Users\uhud\Desktop\odev\odev\bin\EntityFramework.dll
+C:\Users\uhud\Desktop\odev\odev\bin\EntityFramework.SqlServer.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Newtonsoft.Json.dll
+C:\Users\uhud\Desktop\odev\odev\bin\Owin.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Helpers.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Mvc.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Optimization.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Razor.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.Razor.dll
+C:\Users\uhud\Desktop\odev\odev\bin\WebGrease.dll
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Helpers.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Mvc.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Optimization.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.Razor.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\uhud\Desktop\odev\odev\bin\System.Web.WebPages.Razor.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Newtonsoft.Json.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Antlr3.Runtime.pdb
+C:\Users\uhud\Desktop\odev\odev\bin\EntityFramework.xml
+C:\Users\uhud\Desktop\odev\odev\bin\EntityFramework.SqlServer.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\uhud\Desktop\odev\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.Razor.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\uhud\Desktop\odev\odev\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.csproj.CopyComplete
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.dll
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.pdb
+C:\Users\uhud\Desktop\odev\odev\bin\en\odev.resources.dll
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.Kaynaklar.lang.resources
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.Kaynaklar.lang.en.resources
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\uhud\Desktop\odev\odev\obj\Debug\en\odev.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\odev.dll.config
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\odev.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\odev.pdb
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\en\odev.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csc.exe
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csc.exe.config
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csc.rsp
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csi.exe
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csi.exe.config
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\csi.rsp
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.AppContext.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Console.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.IO.Compression.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Net.Http.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.ValueTuple.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\vbc.exe
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\vbc.exe.config
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\vbc.rsp
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Antlr3.Runtime.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\EntityFramework.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\EntityFramework.SqlServer.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Newtonsoft.Json.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Owin.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Helpers.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Mvc.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Optimization.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Razor.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.Razor.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\WebGrease.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Helpers.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Mvc.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Optimization.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.Razor.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\System.Web.WebPages.Razor.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Newtonsoft.Json.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Antlr3.Runtime.pdb
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\EntityFramework.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\EntityFramework.SqlServer.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.Razor.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.Kaynaklar.lang.resources
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.Kaynaklar.lang.en.resources
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\en\odev.resources.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.csproj.CopyComplete
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.dll
+C:\Users\uhud\Desktop\odev - Kopya\odev\obj\Debug\odev.pdb
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\odev.dll.config
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\odev.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\odev.pdb
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\en\odev.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csc.exe
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csc.exe.config
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csc.rsp
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csi.exe
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csi.exe.config
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\csi.rsp
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.AppContext.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Console.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.IO.Compression.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Net.Http.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.ValueTuple.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\vbc.exe
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\vbc.exe.config
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\vbc.rsp
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Antlr3.Runtime.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\EntityFramework.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\EntityFramework.SqlServer.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Newtonsoft.Json.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Owin.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Helpers.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Mvc.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Optimization.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Razor.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.Razor.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\WebGrease.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Helpers.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Mvc.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Optimization.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.Razor.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\System.Web.WebPages.Razor.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Newtonsoft.Json.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Antlr3.Runtime.pdb
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\EntityFramework.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\EntityFramework.SqlServer.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.Razor.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Security.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\bin\tr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.Kaynaklar.lang.resources
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.Kaynaklar.lang.en.resources
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\en\odev.resources.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.csproj.CopyComplete
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.dll
+C:\Users\uhud\Desktop\b200109024-muhammed-uhudhan-ates\odev\obj\Debug\odev.pdb

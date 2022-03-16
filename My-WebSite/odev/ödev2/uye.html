@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head lang="tr-TR">
+    <meta charset="utf-8">
+    <title>TecnoSozluk.com</title>
+    <link rel="stylesheet" href="stillerim.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body style="background-color: rgb(174, 154, 147);">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div class="container-fluid">
+          <label for="TecnoSozluk.com" class="navbar-brand">TecnoSozluk</label>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="mynavbar">
+            <ul class="navbar-nav me-auto">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"><img src="kullanıcı-pp.jpg" alt="Avatar Logo" style="width:30px;" class="rounded-pill"></a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Profile</a></li>
+                  <li><a class="dropdown-item" href="main.html">Çıkış</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="uye.html">Anasayfa</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="javascript:void(0)">Cevaplanmayan Sorular</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="javascript:void(0)">Yeni Mesajlar</a>
+              </li>
+            </ul>
+
+            <form class="d-flex">
+              <input class="form-control me-2" type="text" placeholder="ara...">
+              <button class="btn btn-primary" type="button">Ara</button>
+            </form>
+          </div>
+        </div>
+    </nav>
+
+    <div class="container mt-2 " style="background-color:rgb(174, 154, 147);">
+      <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div>
+      
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="tekno1.jpg" alt="Los Angeles" class="d-block" height="420px" style="width:100%; border-radius: 5px;">
+            <div class="carousel-caption">
+              <p>Teknoloji severleri buluşturan web sitesi. </p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="tecno3.jpg" alt="New York" class="d-block" height="420px" style="width: 100%; border-radius: 5px;">
+            <div class="carousel-caption">
+            </div>  
+          </div>
+          <div class="carousel-item">
+            <img src="tecno4.jpg" alt="New York" class="d-block" height="420px" style="width: 100%; border-radius: 5px;">
+            <div class="carousel-caption">
+            </div>  
+          </div>
+        </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+              <span class="carousel-control-next-icon"></span>
+            </button>
+        </div>
+    </div>
+
+    <div class="container p-4" style="background-color: rgb(174, 154, 147);">
+        <div class="row my-3 kutu">
+          <div class="col-xl-12 bg-dark kutuBaslik"> Bir Konu Olustur</div>
+          
+          <div class="col-xl-2 kutuKonuName">
+            <img src="kullanıcı-pp.jpg" class="rounded-circle" alt="anonim-pp" height="160" width="160">
+            <p>Uhudhan Ates</p>
+          </div>
+          <div class="col-xl-10 kutuKonu" > 
+              <form action="uye.html">
+                  <div class="mb-3 mt-3">
+                    <textarea class="form-control" rows="4" id="yenikonu" name="text"></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-primary" onclick="alert('İçerik Yükleniyor...')">Gönder</button>
+                  <!--          submit normalde -->
+              </form>
+          </div>
+        </div> 
+        <div class="row my-3 kutu">
+            <div class="col-xl-12 bg-dark kutuBaslik"> En Son Eklenenler</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Uhudhan Ates</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">Windows 10 sıfırlarsam lisansım gider mi?</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 8 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> İlker Kaplan</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">Uzak sunucu yönetim aracı kurulurken 0x8024001d hatası</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Şevki Yılmaz</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">Discord kullanıcı ID'den sunucu nasıl bulunur?</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Hüseyin Şevki Topuz</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">MSI Laptop M.2 SSD'yi UEFI Modda Görmüyor </a></div>
+            <div class="col-xl-2 kutuIcıSag"> 12 Kasım 2021</div>
+        </div>
+        <div class="row my-3 kutu">
+            <div class="col-xl-12 bg-dark kutuBaslik"> Cevap Bekleyen Sorular</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Anıl Aksakal</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">i5 10400F sistem Windows 10 mavi ekran hatası</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Uhudhan Ates</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">Samsung 870 EVO SSD güncelleme sonrası yaşanan durum</a> </div>
+            <div class="col-xl-2 kutuIcıSag"> 7 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Onurcan Yılmaz</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">Soru Origin hesabına giremiyorum</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 Aralik 2021</div>
+            
+            <div class="col-xl-2 kutuIcıSol"> Yusuf Elmas</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">''AHCI link Power management - HIPM/DIPM'' ayarı ne işe yarıyor?</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 12 Mart 2021</div>
+        </div>
+    </div>
+
+    <!-- Alt alan -->
+    <div class="container-fluid bg-dark alt">
+        <div class="row">
+            <div class="col-xl-8" style="padding: 10px 1px 1px 50px; ">TecnoSozluk.com</div>
+            <div class="col-xl-4" style="padding: 10px 50px 10px 50px;">Baglantılar </div>
+            <div class="col-xl-8" style="padding: 8px 1px 30px 60px;">TecnoSozluk, 7 Aralik 2021 tarihinden itibaren yayın hayatına başlamış, Türkçe yayın yapan bilişim sitesidir. Bilişim teknolojileri alanındaki güncel gelişmeleri kullanıcılar tarafından tartışıldığı web sitesidir.</div>
+            <div class="col-xl-4" style="padding: 8px 1px 30px 60px;">İnstagram : _uhudates7<br>Linked : Uhudhan Ateş</div> 
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Mesaj";
+}
+
+
+<div class="container" style="background-color: rgb(174, 154, 147); font-weight: bold; font-size: small">
+    <p>
+        &nbsp;Sadece üye olan kullanıcılar konu oluşturabilme yetkisine sahiptir. <br />
+        Tecnosozluk üyelerin sadece teknoloji alanında soru ve görüşlerini paylaşabilecekleri bir web sitesidir.
+        Üyelerimizden bu kurala özen göstermesi rica olunur.
+    </p>
+</div>
+
+<div class="container p-4" style="background-color: rgb(174, 154, 147); font-weight: bold; font-size: small">
+
+    <div class="row my-3 kutu">
+        <div class="col-xl-12 bg-dark kutuBaslik"> Bir Konu Olustur</div>
+
+        <div class="col-xl-2 kutuKonuName">
+            <img src="~/ödev2/kullanıcı-pp.jpg" class="rounded-circle" alt="anonim-pp" height="160" width="160">
+            <p> @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })</p>
+        </div>
+        <div class="col-xl-10 kutuKonu">
+            <form action="https://localhost:44346/Home/Mesaj">
+                <div class="mb-3 mt-3">
+                    <textarea class="form-control" rows="4" id="comment" name="text"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Gönder</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+

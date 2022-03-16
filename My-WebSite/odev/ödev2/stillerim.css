@@ -1,0 +1,64 @@
+.kutu{
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.kutuBaslik{
+    color: white;
+    height: 40px;
+}
+
+.kutuIcıSol{
+    text-align: center;
+    border-style: none none solid none;
+    padding-top: 10px;
+    height: 50px;
+}
+
+.kutuIcıOrta{
+    border-style: none none solid none;
+    text-align: center;
+    padding-top: 10px;
+    height: 50px;
+}
+
+.kutuIcıSag{
+    border-style: none none solid none;
+    text-align: right;
+    padding-top: 10px;
+    height: 50px;
+}
+
+.alt{
+    color: black;
+}
+
+.kutuKonuName{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 0.3%;
+    border-style: none solid none none;
+    height: 200px;
+}
+
+.kutuKonuText{
+    text-align: center;
+    padding-top: 10px;
+    height: 200px;
+}
+
+.kutuIcıSagAdmin{
+    border-style: none none solid none;
+    text-align: center;
+    padding-top: 5px;
+    height: 50px;
+}
+
+.kutuKonuNameAdmin{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 0.3%;
+    border-style: solid solid solid solid;
+    height: 270px;
+}

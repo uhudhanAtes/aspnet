@@ -1,0 +1,74 @@
+﻿@model IEnumerable<odev.Models.Resim>
+@{
+    ViewBag.Title = "Home Page";
+}
+    <div class="container mt-2 " style="background-color: rgb(174, 154, 147);">
+        <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="3"></button>
+            </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </button>
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="/ödev2/tecno3.jpg" class="d-block" height="420" style="width:100%; border-radius: 5px;">
+                </div>
+                @foreach (var item in Model)
+                 {
+                 <div class="carousel-item">
+                     <img src=@item.resim class="d-block" height="420" style="width: 100%; border-radius: 5px;">
+                 </div>
+                 }
+            </div>
+        </div>
+    </div>
+    <div class="container p-4" style="background-color: rgb(174, 154, 147); font-weight: bold; font-size: small">
+        <div class="row my-3 kutu">
+            <div class="col-xl-12 bg-dark kutuBaslik"> @Html.Label(odev.Kaynaklar.lang.son_eklenen)</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Uhudhan Ates</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">Monitördeki piksel rengi değişimi</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 25 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Doğanur Özdemir</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">Epic Games kurulumunda Windows Installer hatası</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 25 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Merve Yılmaz</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">OBS ekran yakalamadaki pencere görünmüyor?</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 24 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Hüseyin Elma</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">TurkNet ve D-Smart </a></div>
+            <div class="col-xl-2 kutuIcıSag"> 23 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+        </div>
+        <div class="row my-3 kutu">
+            <div class="col-xl-12 bg-dark kutuBaslik"> @Html.Label(odev.Kaynaklar.lang.cevap_bekleyen)</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Anıl Aksakal</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">i5 10400F sistem Windows 10 mavi ekran hatası</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Uhudhan Ates</div>
+            <div class="col-xl-8 kutuIcıOrta"><a href="">Samsung 870 EVO SSD güncelleme sonrası yaşanan durum</a> </div>
+            <div class="col-xl-2 kutuIcıSag"> 7 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Onurcan Yılmaz</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">Soru Origin hesabına giremiyorum</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 7 @Html.Label(odev.Kaynaklar.lang.aralik) 2021</div>
+
+            <div class="col-xl-2 kutuIcıSol"> Yusuf Elmas</div>
+            <div class="col-xl-8 kutuIcıOrta"> <a href="">''AHCI link Power management - HIPM/DIPM'' ayarı ne işe yarıyor?</a></div>
+            <div class="col-xl-2 kutuIcıSag"> 12 @Html.Label(odev.Kaynaklar.lang.mart) 2021</div>
+        </div>
+    </div>
